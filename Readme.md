@@ -2,10 +2,10 @@ Setup Guide
 ===========
 
 0. install latest Python 3 from Homebrew (Python 3.5 with pip3)
-```bash
-brew update
-brew install python3
-```
+    ```bash
+    brew update
+    brew install python3
+    ```
 0. install nameko using pip3
 ```bash
 pip install nameko

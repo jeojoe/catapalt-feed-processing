@@ -1,11 +1,4 @@
 .DS_Store
-.codeintel
-.coverage
-.DS_Store
-*.pyc
-*.sublime-*
-_py_cache
-docs/build
 
 ## Packages
 *.egg-info

@@ -7,9 +7,9 @@ brew update
 brew install python3
 ```
 2. install nameko using pip3
-...```bash
-...pip install nameko
-...```
+```bash
+pip install nameko
+```
 3. install RabbitMQ (message broker required by nameko [link](https://nameko.readthedocs.io/en/stable/installation.html#install-with-pip))
 ```bash
 brew install rabbitmq
